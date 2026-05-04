@@ -3,7 +3,6 @@
 
 ## 🚀 Overview
 This project presents an interactive **Pizza Sales Dashboard** built using SQL and Power BI. Raw sales data is processed using SQL queries and transformed into meaningful insights through Power BI visualizations.
-
 The dashboard helps analyze sales performance, customer behavior, and product trends.
 
 ---
